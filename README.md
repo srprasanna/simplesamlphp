@@ -28,7 +28,7 @@ First of all you have to install simplesaml:
 
 ```
 cd /var
-svn co http://simplesamlphp.googlecode.com/svn/trunk simplesamlphp
+git clone https://github.com/srprasanna/simplesamlphp.git simplesamlphp
 cd simplesaml
 cp -r config-templates/*.php config/
 cp -r metadata-templates/*.php metadata/
