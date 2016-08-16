@@ -118,5 +118,7 @@ Restart your shibboleth server
 
 Now you should be ready to test it ! Try to open
 
-```http://your-sp-host/simplesaml/example-simple/saml2-example.php```
+```
+http://your-sp-host/simplesaml/example-simple/saml2-example.php
+```
 
